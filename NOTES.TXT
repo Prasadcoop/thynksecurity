@@ -1,0 +1,11 @@
+create laravel  project
+composer create-project laravel/laravel business_website
+
+server laravel project in chrome
+php artisan serve
+
+create model controller , migration file
+php artisan make:model index -mc
+
+include for include another file 
+yield for parent-child relations
